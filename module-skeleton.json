@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-projects-and-jobs-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-projects-and-jobs",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-projects-and-jobs-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/projects-and-jobs.md",
+  "presentationPlan": "projects/accounting/react/projects-and-jobs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
